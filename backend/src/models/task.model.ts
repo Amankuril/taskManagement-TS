@@ -2,7 +2,7 @@ import mongoose, { Document, Schema } from 'mongoose';
 
 export enum taskStatus {
     TODO = "todo",
-    IN_PROGRESS = "inProgress",
+    IN_PROGRESS = "in_progress",
     DONE = "done"
 };
 

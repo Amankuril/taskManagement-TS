@@ -1,9 +1,9 @@
-import React from 'react'
+import Home from "./pages/Home"
 
 const App = () => {
   return (
-    <div className='bg-red-500'>
-      app
+    <div className=''>
+      <Home />
     </div>
   )
 }
